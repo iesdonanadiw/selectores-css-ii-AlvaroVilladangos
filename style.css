@@ -1,0 +1,63 @@
+#titulo {
+    color: teal;
+}
+
+strong {
+    color: red;
+}
+
+.destacado {
+    color: orange;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+:link {
+    color: red;
+}
+
+caption {
+    color: blue;
+}
+
+.especial {
+    color: orange;
+}
+
+tfoot th {
+    color: red;
+}
+
+td strong {
+    color: orange;
+}
+
+tr th {
+    color: red;
+}
+
+td {
+    color: green;
+}
+
+em {
+    color: blue;
+}
+
+em:last-of-type {
+    color: inherit;
+}
+
+div {
+    color: olive;
+}
+
+#especial {
+    color: fuchsia;
+}
+
+:link:last-of-type {
+    color: green;
+}
