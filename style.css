@@ -58,6 +58,6 @@ div {
     color: fuchsia;
 }
 
-:link:last-of-type {
+:link:last-child{
     color: green;
 }
