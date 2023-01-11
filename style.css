@@ -21,6 +21,9 @@ strong {
 caption {
     color: blue;
 }
+p .especial{
+    color: purple;
+}
 
 .especial {
     color: orange;
